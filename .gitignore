@@ -1,0 +1,17 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Éditeurs
+.vscode/
+.idea/
+
+# PowerShell
+*.ps1xml
