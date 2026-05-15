@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe des fiches pratiques, des commandes utiles, des scripts PowerShell simples et des modèles de documentation pour aider au diagnostic des incidents courants en infrastructure.
 
-L’objectif est de garder une méthode claire, progressive et réutilisable dans un contexte de support informatique ou d’exploitation infrastructure.
+L’objectif est de garder une méthode claire, progressive et réutilisable dans un contexte de support informatique ou d’exploitation d’infrastructure.
 
 ## Objectifs
 

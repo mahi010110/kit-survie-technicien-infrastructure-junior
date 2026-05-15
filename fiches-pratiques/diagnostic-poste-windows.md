@@ -101,4 +101,4 @@ Informations à transmettre lors de l’escalade :
 - message d’erreur exact ou capture si disponible ;
 - actions déjà réalisées ;
 - résultats utiles de `ipconfig`, `systeminfo`, `tasklist` ou des journaux ;
-- impact constaté : un utilisateur, plusieurs utilisateurs ou service complet.
+- impact constaté : un utilisateur, plusieurs utilisateurs ou un service complet.
