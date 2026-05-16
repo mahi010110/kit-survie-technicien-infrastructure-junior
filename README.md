@@ -1,4 +1,4 @@
-# Kit de Survie Technicien Infrastructure Junior
+# Kit de Survie Technicien Infrastructure 
 
 Ce dépôt regroupe des fiches pratiques, des commandes utiles, des scripts PowerShell simples et des modèles de documentation pour aider au diagnostic des incidents courants en infrastructure.
 
