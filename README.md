@@ -48,7 +48,6 @@ Le dépôt contient les éléments suivants :
 - [Procédure d’escalade](modeles/procedure-escalade.md)
 - [Incidents informatique et production](contexte-industriel/incidents-informatique-et-production.md)
 - [Bonnes pratiques](ressources/bonnes-pratiques.md)
-- [Glossaire](ressources/glossaire.md)
 
 ## Pour qui
 
