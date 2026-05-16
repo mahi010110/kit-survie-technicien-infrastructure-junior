@@ -48,19 +48,6 @@ nslookup <nom_du_serveur>
 tracert <adresse_ou_nom>
 ```
 
-Sous Linux :
-
-```bash
-ip addr
-ip route
-ping 127.0.0.1
-ping <passerelle>
-ping 8.8.8.8
-ping <nom_du_serveur>
-nslookup <nom_du_serveur>
-traceroute <adresse_ou_nom>
-```
-
 ## Interprétation
 
 - `169.254.x.x` : le poste n’a probablement pas reçu d’adresse IP automatiquement.

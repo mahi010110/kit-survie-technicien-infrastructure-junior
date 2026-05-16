@@ -49,18 +49,6 @@ tracert <nom_du_serveur>
 ipconfig /displaydns
 ```
 
-Sous Linux :
-
-```bash
-ip addr
-ip route
-cat /etc/resolv.conf
-nslookup <nom_du_serveur>
-dig <nom_du_serveur>
-ping <nom_du_serveur>
-ping <adresse_IP>
-```
-
 ## Interprétation
 
 - `ping <adresse_IP>` fonctionne mais `ping <nom>` échoue : problème DNS probable.

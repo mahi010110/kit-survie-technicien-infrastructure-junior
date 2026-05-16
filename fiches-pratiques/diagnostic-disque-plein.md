@@ -57,13 +57,6 @@ Pour lancer l’outil de nettoyage Windows :
 cleanmgr
 ```
 
-Sous Linux :
-
-```bash
-df -h
-du -sh /home/* 2>/dev/null
-```
-
 ## Interprétation
 
 - Moins de 10 % d’espace libre sur `C:` : le poste peut devenir lent ou instable.

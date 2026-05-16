@@ -63,15 +63,6 @@ New-SmbMapping -LocalPath Z: -RemotePath "\\<serveur>\\<partage>"
 Remove-SmbMapping -LocalPath Z:
 ```
 
-Sous Linux :
-
-```bash
-ping <nom_du_serveur>
-nslookup <nom_du_serveur>
-smbclient -L //<serveur> -U <utilisateur>
-mount | grep cifs
-```
-
 ## Interprétation
 
 - `ping` du serveur impossible : problème réseau, DNS, serveur indisponible ou filtrage.

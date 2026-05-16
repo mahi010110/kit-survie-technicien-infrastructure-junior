@@ -63,14 +63,6 @@ net stop spooler
 net start spooler
 ```
 
-Sous Linux :
-
-```bash
-lpstat -p
-lpstat -o
-ping <adresse_IP_imprimante>
-```
-
 ## Interprétation
 
 - L’imprimante ne s’allume pas : problème d’alimentation, de prise ou de matériel.
